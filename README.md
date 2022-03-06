@@ -11,5 +11,5 @@ It is mainly based on library users and the books as primary entities for JPA da
 
 The endpoints here perform CRUD operations on the users and books, users can borrow, return and donate books. 
 
-##Discalimer
+## Discalimer
 _still learning_:smile: :100: :100:
