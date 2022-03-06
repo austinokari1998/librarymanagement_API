@@ -9,7 +9,7 @@ The librarymanagement_API perfoms the normal operations that happen in any libra
 
 It is mainly based on library users and the books as primary entities for JPA data persistence in a database of users choice(_though H2-embedded in-memory database was used for testing purposes_)
 
-The endpoints here perform CRUD operations on the users and books, users can borrow, return and donate books. 
+The endpoints here are for requsts responsible for performance of CRUD operations on the users and books, users can borrow, return and donate books. 
 
 ## Discalimer
 _still learning_:smile: :100: :100:
